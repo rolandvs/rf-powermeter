@@ -1,6 +1,6 @@
 # Bi-directional Power Meter
 
-![IM-4190](assets/img/IM4190 meter.gif)
+![IM-4190](assets/img/IM4190%20meter.gif)
 
 ## The Idea
 As a professional I designed IoT RF products, mostly 870MHz and higher. As a licensed HAM operator I use Software Defined Radio (e.g., ADI Pluto) and had commercial rig's from Yeasu and Kenwood.
