@@ -1,3 +1,8 @@
+# OSX Annoyance
+.DS_Store
+# put things in repo that are not in remote and unmanaged
+lost&found/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
