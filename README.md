@@ -11,13 +11,12 @@ One thing that was missing was a **Bird**, **HP** or **R&S** like Power Meter. M
 
 Already build systems that used the AD8307 for power measurement up to 500MHz. Also used the AD8302 to build a VNA like sensor for soil impedance measurements. So why not build my own power meter.
 
-## Measurement Bridge
+### Measurement Bridge
 To measure the forward and backward power a stripline pickup at both sides of a PCB could be used.
 
 ![vk5ajl](assets/img/coupler(vk5ajl).png)
 
-
- But this time I use Mini-Circuits **ZFDC-10-2-S** 10-1000MHz 10dB Directional Couplers.
+But this time I use Mini-Circuits **ZFDC-10-2-S** 10-1000MHz 10dB Directional Couplers.
 
 ![ZFDC-10-2-S](assets/img/mini-circuits.png)
 
@@ -26,6 +25,18 @@ To measure the forward and backward power a stripline pickup at both sides of a 
 By combining two Mini-Circuits `ZFDC-10-2-S` I have my measurement bridge with higher quality than D-I-Y.
 
 ![bridge](assets/img/bi-directional.png)
+
+
+## Power Measurement for the masses
+A RF Power Meter is not an measurement device that comes cheap. Besides the already mentioned Bird, HP and R&S Power Measurement Equipment, nowadays RF-in USB-out Power Meters are increasingly populair. However, they are still costly devices.
+
+Most engineers have a DVM or multimeter on their bench. They can measure Voltage, Current and Power. Usually a multi-meter is not capable to measure RF. Therefore an accessory for the multi-meter could de wonders.
+
+The design is a SMA input RF-power meter that
+- Outputs a DC voltage in millivolts that has such a value that it can be easily interpreted as dBm value.
+- Furthermore an attempt will be made to provide an USB interface too making it even more interesting.
+- Implementing $INSTR/VISA instrument control as a future option.
+
 
 _**\<to be continued...\>**_
 
