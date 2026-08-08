@@ -29,3 +29,4 @@ By combining two Mini-Circuits `ZFDC-10-2-S` I have my measurement bridge with h
 
 _**\<to be continued...\>**_
 
+Note: the couplers short the DC path.
