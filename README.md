@@ -29,7 +29,7 @@ By combining two Mini-Circuits `ZFDC-10-2-S` I have my measurement bridge with h
 ## IM-4190 Revisited
 I got hold of a IM-4190 without the bridge, but the housing, meter and some of the original parts.
 
-![IM](assets/img/IM-4190.jpeg)
+![IM](assets/img/img/IM-4190.jpeg)
 
 
 
