@@ -26,6 +26,13 @@ By combining two Mini-Circuits `ZFDC-10-2-S` I have my measurement bridge with h
 
 ![bridge](assets/img/bi-directional.png)
 
+## IM-4190 Revisited
+I got hold of a IM-4190 without the bridge, but the housing, meter and some of the original parts.
+
+![IM](assets/img/IM-4190.jpeg)
+
+
+
 
 ## Power Measurement for the masses
 A RF Power Meter is not an measurement device that comes cheap. Besides the already mentioned Bird, HP and R&S Power Measurement Equipment, nowadays RF-in USB-out Power Meters are increasingly populair. However, they are still costly devices.
